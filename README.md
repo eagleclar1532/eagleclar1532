@@ -7,26 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Şu anda **Web Sitesi** üzerinde çalışıyorum
-
-- 🌱 Şu anda **Tüm Dilleri Deniyerek Öğreniyorum** öğreniyorum
-
-- 👯 ​​**Hayır** üzerinde ortak çalışma yapmak istiyorum
-
-- 🤝 **Hayır** konusunda yardım arıyorum
-
-- 👨‍💻 Tüm projelerim şu adreste mevcut: [Githup şu anda ama bir Portföy hazırlayacağım](Githup şu anda ama bir Portföy hazırlayacağım)
-
-- 📝 Düzenli olarak [Hayır](Hayır) hakkında yazılar yazıyorum
-
-- 💬 Bana **Sor** hakkında sor
-
-- 📫 Bana nasıl ulaşabilirsin **mustafaugur.zenginpc@gmail.com**
-
-- 📄 Deneyimlerimden haberdar olun [Yok](Yok)
-
-- ⚡ Eğlenceli gerçek **EVE**
-
 <h3 align="left">Benimle iletişime geçin:</h3>
 <p align="left">
 <a href="https://linkedin.com/tr/mustafa zengin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa zengin" height="30" width="40" /></a>
