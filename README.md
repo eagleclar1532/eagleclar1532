@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg1MTg0OWFhNTQ0MTIwMWQ3MmU5YTQ4YmU1ZTk5OWE2YzlkOWIyZSZlcD12MV91c2VyX2Zhdm9yaXRlcyZjdD1n/exnY8mKcVb6I8/giphy.gif)
+
 
 <h1 align="center">Merhaba 👋, ben Mustafa Uğur Zengin</h1>
 
