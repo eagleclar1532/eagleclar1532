@@ -9,4 +9,4 @@
 
 
 
-![snake gif](https://github.com/eagleclar1532/eagleclar1532/blob/output/github-snake-dark.svg)
+
