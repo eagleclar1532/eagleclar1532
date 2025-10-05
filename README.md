@@ -1,9 +1,4 @@
-
-
 <h1 align="center">Merhaba 👋, ben Mustafa Uğur Zengin</h1>
-
-
-
 
 <h3 align="left">Diller ve Araçlar:</h3>
 <p align="left"> 
@@ -24,14 +19,13 @@
   </a> 
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" alt="cisco" width="40" height="40"/> 
   </a>
 </p>
 
+<br/>
 
-
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eagleclar1532&show_icons=true&locale=tr&layout=compact" alt="eagleclar1532" />
+</p>
 
 ![snake gif](https://github.com/eagleclar1532/eagleclar1532/blob/output/github-snake-dark.svg)
